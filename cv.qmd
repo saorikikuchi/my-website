@@ -1,0 +1,11 @@
+---
+title: "CV"
+---
+
+# CV
+
+[Download My CV (PDF)](resume.pdf)
+
+## Summary
+
+Brief summary of your experience and skills.
