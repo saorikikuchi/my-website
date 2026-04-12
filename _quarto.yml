@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Saori Kikuchi"
+  title: "My Portfolio"
   navbar:
     left:
       - href: index.qmd
@@ -20,5 +20,3 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
-    
