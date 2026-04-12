@@ -3,25 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "My Portfolio"
+  title: "Saori Kikuchi"
   navbar:
     left:
-<<<<<<< HEAD
-      - text: About You
-=======
-      - text: Home
-        href: index.qmd
-      - text: About
->>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
-        href: about.qmd
-      - text: Projects
-        href: projects.qmd
-      - text: CV
-        href: cv.qmd
-      - text: Contact
-        href: contact.qmd
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: default
-    toc: false
+    theme: cosmo

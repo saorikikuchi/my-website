@@ -4,12 +4,7 @@ title: "CV"
 
 # CV
 
-<<<<<<< HEAD
-[Download My CV](resume.pdf)
-=======
-[Download My CV (PDF)](resume.pdf)
->>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
+I am currently building my professional portfolio in data analytics and technology. My background includes academic projects, technical coursework, and practical experience in problem solving and communication.
 
-## Summary
-
-Brief summary of your experience and skills.
+## Download
+[Download my CV (PDF)](docs/CV2026.pdf)

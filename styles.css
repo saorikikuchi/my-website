@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+}
+
+.navbar {
+  font-weight: 600;
+}
+
+h1, h2, h3 {
+  color: #1f3c88;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(90deg, #f8f9fa, #e9f2ff);
+}
