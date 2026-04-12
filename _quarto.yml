@@ -6,7 +6,13 @@ website:
   title: "My Portfolio"
   navbar:
     left:
+<<<<<<< HEAD
       - text: About You
+=======
+      - text: Home
+        href: index.qmd
+      - text: About
+>>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
         href: about.qmd
       - text: Projects
         href: projects.qmd

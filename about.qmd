@@ -1,9 +1,14 @@
 ---
+<<<<<<< HEAD
 title: "About Me"
+=======
+title: "About You"
+>>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
 ---
 
 # About Me
 
+<<<<<<< HEAD
 Hello, I’m Saori Kikuchi.
 
 I am interested in data science, machine learning, and solving real-world problems using data.
@@ -11,3 +16,12 @@ I am interested in data science, machine learning, and solving real-world proble
 ## Career Goals
 
 I aim to become a machine learning engineer and contribute to building practical AI systems.
+=======
+Hello, I’m [Your Name].
+
+I am interested in data science, machine learning, and solving real-world problems using technology.
+
+## Career Goals
+
+I aim to become a machine learning engineer and build practical AI systems.
+>>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396

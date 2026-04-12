@@ -4,7 +4,11 @@ title: "CV"
 
 # CV
 
+<<<<<<< HEAD
 [Download My CV](resume.pdf)
+=======
+[Download My CV (PDF)](resume.pdf)
+>>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
 
 ## Summary
 

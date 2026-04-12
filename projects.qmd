@@ -4,6 +4,7 @@ title: "Projects"
 
 # Projects
 
+<<<<<<< HEAD
 Here are selected projects that demonstrate my skills in data analysis, machine learning, and problem solving.
 
 ---
@@ -79,3 +80,12 @@ This project improved my understanding of static website development, project or
 
 [View on GitHub](https://github.com/saorikikuchi/my-website)
 
+=======
+## Project 1
+
+Description of your project.
+
+## Project 2
+
+Description of your project.
+>>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
