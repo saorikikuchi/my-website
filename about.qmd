@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+Hello, I’m Saori Kikuchi.
+
+I am interested in data science, machine learning, and solving real-world problems using data.
+
+## Career Goals
+
+I aim to become a machine learning engineer and contribute to building practical AI systems.

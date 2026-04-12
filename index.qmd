@@ -1,7 +1,15 @@
 ---
-title: "website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Saori Kikuchi
+
+Aspiring Data Scientist / Machine Learning Engineer
+
+Welcome to my portfolio website.
+
+This site showcases my projects, skills, and professional background.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
