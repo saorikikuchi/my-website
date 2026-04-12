@@ -12,4 +12,26 @@ This site showcases my projects, skills, and professional background.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+# Hi, I'm Saori Kikuchi 👋
 
+### Data | Analytics | Machine Learning
+
+I am a data-focused student passionate about solving real-world problems using data and technology.
+
+[View My Projects](projects.qmd){.btn .btn-primary}
+[Download CV](docs/CV2026.pdf){.btn .btn-outline-dark}
+
+---
+
+## What I Do
+
+- 📊 Data Analysis & Visualization  
+- 🤖 Machine Learning  
+- 📈 Problem Solving with Data  
+
+---
+
+## Featured Projects
+
+- Customer Churn Prediction  
+- Data Analysis Project  

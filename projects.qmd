@@ -4,6 +4,30 @@ title: "Projects"
 
 # Projects
 
+::: {.grid}
+
+::: {.card}
+## Customer Churn Prediction
+
+Built a machine learning model to predict customer churn.
+
+**Tools:** Python, pandas, scikit-learn  
+
+[View on GitHub](https://github.com/saorikikuchi)
+:::
+
+::: {.card}
+## Data Analysis Project
+
+Analyzed real-world dataset to extract insights.
+
+**Tools:** Excel, Python  
+
+[View on GitHub](https://github.com/saorikikuchi)
+:::
+
+:::
+
 <<<<<<< HEAD
 Here are selected projects that demonstrate my skills in data analysis, machine learning, and problem solving.
 
