@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nView on GitHub\n\n\n\nAnalyzed real-world dataset to extract insights.\nTools: Excel, Python\nView on GitHub\n\n\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Here are selected projects that demonstrate my skills in data analysis, machine learning, and problem solving.\n\n\n\n\n\nThis project focused on predicting whether a customer would leave a company based on historical customer data. The goal was to identify patterns related to churn and support better retention strategies.\n\n\n\n\nPython\nPandas\nScikit-learn\nMatplotlib\nJupyter Notebook\n\n\n\n\n\nCleaned and prepared the dataset for analysis\nPerformed exploratory data analysis to identify important variables\nBuilt and compared machine learning classification models\nEvaluated model performance using common metrics such as accuracy and F1-score\n\n\n\n\nThis project helped me strengthen my understanding of supervised learning, feature selection, and model evaluation. I also learned how to communicate technical findings in a clear and practical way.\nView on GitHub\n\n\n\n\n\n\n\nThis project analyzed sales data to identify trends in revenue, customer behavior, and product performance. The aim was to create a clear and useful dashboard for decision-making.\n\n\n\n\nPython\nSQL\nTableau / Power BI\nExcel\n\n\n\n\n\nOrganized and cleaned raw sales data\nQueried relevant information using SQL\nBuilt visualizations to show monthly trends and key performance indicators\nSummarized business insights from the dashboard\n\n\n\n\nThis project improved my skills in business analytics and data visualization. It also helped me understand how dashboards can support practical business decisions.\nView on GitHub\n\n\n\n\n\n\n\nThis project involved designing and deploying a personal portfolio website using Quarto and GitHub Pages. The goal was to present my academic background, projects, and professional goals in a clean and accessible format.\n\n\n\n\nQuarto\nMarkdown\nHTML/CSS\nGitHub Pages\n\n\n\n\n\nDesigned a multi-page website structure\nCreated pages for About, Projects, CV, and Contact\nCustomized navigation and layout\nPublished the site online using GitHub Pages\n\n\n\n\nThis project improved my understanding of static website development, project organization, and online professional branding.\nView on GitHub\n======= ## Project 1\nDescription of your project.\n\n\n\n\nDescription of your project. &gt;&gt;&gt;&gt;&gt;&gt;&gt; 173b0ea04efe5211bb32ae59942a8440eaaa8396"
+  },
+  {
+    "objectID": "projects.html#customer-churn-prediction",
+    "href": "projects.html#customer-churn-prediction",
+    "title": "Projects",
+    "section": "",
+    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#data-analysis-project",
+    "href": "projects.html#data-analysis-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed real-world dataset to extract insights.\nTools: Excel, Python\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#customer-churn-prediction-1",
+    "href": "projects.html#customer-churn-prediction-1",
+    "title": "Projects",
+    "section": "",
+    "text": "This project focused on predicting whether a customer would leave a company based on historical customer data. The goal was to identify patterns related to churn and support better retention strategies.\n\n\n\n\nPython\nPandas\nScikit-learn\nMatplotlib\nJupyter Notebook\n\n\n\n\n\nCleaned and prepared the dataset for analysis\nPerformed exploratory data analysis to identify important variables\nBuilt and compared machine learning classification models\nEvaluated model performance using common metrics such as accuracy and F1-score\n\n\n\n\nThis project helped me strengthen my understanding of supervised learning, feature selection, and model evaluation. I also learned how to communicate technical findings in a clear and practical way.\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#sales-performance-dashboard",
+    "href": "projects.html#sales-performance-dashboard",
+    "title": "Projects",
+    "section": "",
+    "text": "This project analyzed sales data to identify trends in revenue, customer behavior, and product performance. The aim was to create a clear and useful dashboard for decision-making.\n\n\n\n\nPython\nSQL\nTableau / Power BI\nExcel\n\n\n\n\n\nOrganized and cleaned raw sales data\nQueried relevant information using SQL\nBuilt visualizations to show monthly trends and key performance indicators\nSummarized business insights from the dashboard\n\n\n\n\nThis project improved my skills in business analytics and data visualization. It also helped me understand how dashboards can support practical business decisions.\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#portfolio-website-with-quarto",
+    "href": "projects.html#portfolio-website-with-quarto",
+    "title": "Projects",
+    "section": "",
+    "text": "This project involved designing and deploying a personal portfolio website using Quarto and GitHub Pages. The goal was to present my academic background, projects, and professional goals in a clean and accessible format.\n\n\n\n\nQuarto\nMarkdown\nHTML/CSS\nGitHub Pages\n\n\n\n\n\nDesigned a multi-page website structure\nCreated pages for About, Projects, CV, and Contact\nCustomized navigation and layout\nPublished the site online using GitHub Pages\n\n\n\n\nThis project improved my understanding of static website development, project organization, and online professional branding.\nView on GitHub\n======= ## Project 1\nDescription of your project."
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "",
+    "text": "Description of your project. &gt;&gt;&gt;&gt;&gt;&gt;&gt; 173b0ea04efe5211bb32ae59942a8440eaaa8396"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "I am currently building my professional portfolio in data analytics and technology. My background includes academic projects, technical coursework, and practical experience in problem solving and communication.\n\n\nDownload my CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#download",
+    "href": "cv.html#download",
+    "title": "CV",
+    "section": "",
+    "text": "Download my CV (PDF)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, I’m Saori Kikuchi.\nI am a data science student with a strong interest in machine learning, analytics, and problem solving.\nMy goal is to build practical data-driven solutions that help organizations make better decisions. I enjoy working on projects involving data analysis, predictive modeling, and visualization.\nI am currently developing my portfolio to showcase academic and personal projects relevant to data and technology roles."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nFeel free to reach out for collaboration, networking, or opportunities.\n\nEmail: saori53@bu.edu\nGitHub: github.com/yourname\nLinkedIn: linkedin.com/in/yourname"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Aspiring Data Scientist / Machine Learning Engineer\nWelcome to my portfolio website.\nThis site showcases my projects, skills, and professional background.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
+    "section": "What I Do",
+    "text": "What I Do\n\n📊 Data Analysis & Visualization\n\n🤖 Machine Learning\n\n📈 Problem Solving with Data"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nCustomer Churn Prediction\n\nData Analysis Project"
+  }
+]
