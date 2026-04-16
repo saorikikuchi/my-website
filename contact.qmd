@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-# Contact
-
 Feel free to reach out for collaboration, networking, or opportunities.
 
 - Email: saori53@bu.edu
