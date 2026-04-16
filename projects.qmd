@@ -2,8 +2,6 @@
 title: "Projects"
 ---
 
-# Projects
-
 ::: {.grid}
 
 ::: {.card}
