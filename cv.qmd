@@ -2,8 +2,6 @@
 title: "CV"
 ---
 
-# CV
-
 I am currently building my professional portfolio in data analytics and technology. My background includes academic projects, technical coursework, and practical experience in problem solving and communication.
 
 ## Download
