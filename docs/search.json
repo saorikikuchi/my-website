@@ -4,49 +4,21 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nView on GitHub\n\n\n\nAnalyzed real-world dataset to extract insights.\nTools: Excel, Python\nView on GitHub\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD Here are selected projects that demonstrate my skills in data analysis, machine learning, and problem solving."
+    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nResult: Improved prediction performance and identified key churn factors."
   },
   {
     "objectID": "projects.html#customer-churn-prediction",
     "href": "projects.html#customer-churn-prediction",
     "title": "Projects",
     "section": "",
-    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nView on GitHub"
+    "text": "Built a machine learning model to predict customer churn.\nTools: Python, pandas, scikit-learn\nResult: Improved prediction performance and identified key churn factors."
   },
   {
     "objectID": "projects.html#data-analysis-project",
     "href": "projects.html#data-analysis-project",
     "title": "Projects",
-    "section": "",
-    "text": "Analyzed real-world dataset to extract insights.\nTools: Excel, Python\nView on GitHub"
-  },
-  {
-    "objectID": "projects.html#customer-churn-prediction-1",
-    "href": "projects.html#customer-churn-prediction-1",
-    "title": "Projects",
-    "section": "1. Customer Churn Prediction",
-    "text": "1. Customer Churn Prediction\n\nOverview\nThis project focused on predicting whether a customer would leave a company based on historical customer data. The goal was to identify patterns related to churn and support better retention strategies.\n\n\nTools and Technologies\n\nPython\nPandas\nScikit-learn\nMatplotlib\nJupyter Notebook\n\n\n\nWhat I Did\n\nCleaned and prepared the dataset for analysis\nPerformed exploratory data analysis to identify important variables\nBuilt and compared machine learning classification models\nEvaluated model performance using common metrics such as accuracy and F1-score\n\n\n\nOutcome\nThis project helped me strengthen my understanding of supervised learning, feature selection, and model evaluation. I also learned how to communicate technical findings in a clear and practical way.\nView on GitHub"
-  },
-  {
-    "objectID": "projects.html#sales-performance-dashboard",
-    "href": "projects.html#sales-performance-dashboard",
-    "title": "Projects",
-    "section": "2. Sales Performance Dashboard",
-    "text": "2. Sales Performance Dashboard\n\nOverview\nThis project analyzed sales data to identify trends in revenue, customer behavior, and product performance. The aim was to create a clear and useful dashboard for decision-making.\n\n\nTools and Technologies\n\nPython\nSQL\nTableau / Power BI\nExcel\n\n\n\nWhat I Did\n\nOrganized and cleaned raw sales data\nQueried relevant information using SQL\nBuilt visualizations to show monthly trends and key performance indicators\nSummarized business insights from the dashboard\n\n\n\nOutcome\nThis project improved my skills in business analytics and data visualization. It also helped me understand how dashboards can support practical business decisions.\nView on GitHub"
-  },
-  {
-    "objectID": "projects.html#portfolio-website-with-quarto",
-    "href": "projects.html#portfolio-website-with-quarto",
-    "title": "Projects",
-    "section": "3. Portfolio Website with Quarto",
-    "text": "3. Portfolio Website with Quarto\n\nOverview\nThis project involved designing and deploying a personal portfolio website using Quarto and GitHub Pages. The goal was to present my academic background, projects, and professional goals in a clean and accessible format.\n\n\nTools and Technologies\n\nQuarto\nMarkdown\nHTML/CSS\nGitHub Pages\n\n\n\nWhat I Did\n\nDesigned a multi-page website structure\nCreated pages for About, Projects, CV, and Contact\nCustomized navigation and layout\nPublished the site online using GitHub Pages\n\n\n\nOutcome\nThis project improved my understanding of static website development, project organization, and online professional branding.\nView on GitHub\n======= ## Project 1\nDescription of your project."
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2\nDescription of your project. &gt;&gt;&gt;&gt;&gt;&gt;&gt; 173b0ea04efe5211bb32ae59942a8440eaaa8396"
+    "section": "Data Analysis Project",
+    "text": "Data Analysis Project\nAnalyzed a real-world dataset to extract useful insights.\nTools: Excel, Python\nResult: Created visualizations and summarized key trends clearly."
   },
   {
     "objectID": "cv.html",

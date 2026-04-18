@@ -2,112 +2,18 @@
 title: "Projects"
 ---
 
-::: {.grid}
-
-::: {.card}
 ## Customer Churn Prediction
 
 Built a machine learning model to predict customer churn.
 
-**Tools:** Python, pandas, scikit-learn  
+**Tools:** Python, pandas, scikit-learn
 
-[View on GitHub](https://github.com/saorikikuchi)
-:::
+**Result:** Improved prediction performance and identified key churn factors.
 
-::: {.card}
 ## Data Analysis Project
 
-Analyzed real-world dataset to extract insights.
+Analyzed a real-world dataset to extract useful insights.
 
-**Tools:** Excel, Python  
+**Tools:** Excel, Python
 
-[View on GitHub](https://github.com/saorikikuchi)
-:::
-
-:::
-
-<<<<<<< HEAD
-Here are selected projects that demonstrate my skills in data analysis, machine learning, and problem solving.
-
----
-
-## 1. Customer Churn Prediction
-
-### Overview
-This project focused on predicting whether a customer would leave a company based on historical customer data. The goal was to identify patterns related to churn and support better retention strategies.
-
-### Tools and Technologies
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Jupyter Notebook
-
-### What I Did
-- Cleaned and prepared the dataset for analysis
-- Performed exploratory data analysis to identify important variables
-- Built and compared machine learning classification models
-- Evaluated model performance using common metrics such as accuracy and F1-score
-
-### Outcome
-This project helped me strengthen my understanding of supervised learning, feature selection, and model evaluation. I also learned how to communicate technical findings in a clear and practical way.
-
-[View on GitHub](https://github.com/yourusername/churn-project)
-
----
-
-## 2. Sales Performance Dashboard
-
-### Overview
-This project analyzed sales data to identify trends in revenue, customer behavior, and product performance. The aim was to create a clear and useful dashboard for decision-making.
-
-### Tools and Technologies
-- Python
-- SQL
-- Tableau / Power BI
-- Excel
-
-### What I Did
-- Organized and cleaned raw sales data
-- Queried relevant information using SQL
-- Built visualizations to show monthly trends and key performance indicators
-- Summarized business insights from the dashboard
-
-### Outcome
-This project improved my skills in business analytics and data visualization. It also helped me understand how dashboards can support practical business decisions.
-
-[View on GitHub](https://github.com/yourusername/sales-dashboard)
-
----
-
-## 3. Portfolio Website with Quarto
-
-### Overview
-This project involved designing and deploying a personal portfolio website using Quarto and GitHub Pages. The goal was to present my academic background, projects, and professional goals in a clean and accessible format.
-
-### Tools and Technologies
-- Quarto
-- Markdown
-- HTML/CSS
-- GitHub Pages
-
-### What I Did
-- Designed a multi-page website structure
-- Created pages for About, Projects, CV, and Contact
-- Customized navigation and layout
-- Published the site online using GitHub Pages
-
-### Outcome
-This project improved my understanding of static website development, project organization, and online professional branding.
-
-[View on GitHub](https://github.com/saorikikuchi/my-website)
-
-=======
-## Project 1
-
-Description of your project.
-
-## Project 2
-
-Description of your project.
->>>>>>> 173b0ea04efe5211bb32ae59942a8440eaaa8396
+**Result:** Created visualizations and summarized key trends clearly.
