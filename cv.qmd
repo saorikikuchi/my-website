@@ -5,4 +5,4 @@ title: "CV"
 I am currently building my professional portfolio in data analytics and technology. My background includes academic projects, technical coursework, and practical experience in problem solving and communication.
 
 ## Download
-[Download my CV (PDF)](docs/CV2026.pdf)
+[Download my CV (PDF)](CV2026.pdf)
