@@ -5,5 +5,5 @@ title: "Contact"
 Feel free to reach out for collaboration, networking, or opportunities.
 
 - Email: saori53@bu.edu
-- GitHub: [github.com/yourname](https://github.com/yourname)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- GitHub: [https://github.com/saorikikuchi/my-website]
+          (https://saorikikuchi.github.io/my-website/)
