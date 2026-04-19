@@ -2,33 +2,16 @@
 title: "Projects"
 ---
 
-## Expense Analysis Dashboard
+<div class="project-card">
+  <h2>Expense Analysis Dashboard</h2>
+  <p>Developed a dashboard to analyze monthly operating costs and identify spending trends.</p>
+  <p><strong>Tools:</strong> Excel, Power Query, Power BI</p>
+  <p><strong>Result:</strong> Improved visibility into operating expenses and supported budgeting decisions.</p>
+</div>
 
-Developed a dashboard to analyze monthly operating costs and identify spending trends.
-
-**Tools:** Excel, Power Query, Power BI
-
-**What I did:**
-- Cleaned and transformed financial data
-- Built dashboards to track cost categories
-- Identified key cost drivers and trends
-
-**Result:**
-Improved visibility into operating expenses and supported budgeting decisions.
-
----
-
-## Budget vs Actual Analysis
-
-Analyzed budget vs actual performance to identify variances and provide insights.
-
-**Tools:** Excel
-
-**What I did:**
-- Compared planned vs actual financial data
-- Investigated major variances
-- Summarized findings for reporting
-
-**Result:**
-Helped improve financial planning accuracy and cost control.
-
+<div class="project-card">
+  <h2>Budget vs Actual Analysis</h2>
+  <p>Analyzed budget versus actual performance to identify variances and provide financial insights.</p>
+  <p><strong>Tools:</strong> Excel</p>
+  <p><strong>Result:</strong> Supported financial planning and improved variance analysis.</p>
+</div>

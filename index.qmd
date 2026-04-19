@@ -1,36 +1,33 @@
 ---
-title: "Home"
+title: ""
 ---
 
+::: {.hero}
 # Saori Kikuchi
 
-Aspiring Data Scientist / Machine Learning Engineer
+### Accounting • Finance • Data Analytics
 
-Welcome to my portfolio website.
+I am an accounting and finance professional with over 10 years of experience, currently expanding my skills in data analytics to support FP&A and business decision-making.
 
-This site showcases my projects, skills, and professional background.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-# Hi, I'm Saori Kikuchi 👋
-
-### Data | Analytics | Machine Learning
-
-I am a data-focused student passionate about solving real-world problems using data and technology.
-
-[View My Projects](projects.qmd){.btn .btn-primary}
-[Download CV](docs/CV2026.pdf){.btn .btn-outline-dark}
-
----
+[View Projects](projects.qmd){.btn .btn-primary .btn-lg}
+[Download CV](CV2026.pdf){.btn .btn-outline-primary .btn-lg}
+:::
 
 ## What I Do
 
--  Data Analysis & Visualization  
--  Machine Learning  
--  Problem Solving with Data  
+::: {.feature-grid}
+::: {.feature-card}
+### Finance
+Financial reporting, budgeting, cost analysis, and cash flow management.
+:::
 
----
+::: {.feature-card}
+### Analytics
+Excel, Power Query, Power BI, and data-driven decision support.
+:::
 
-## Featured Projects
-
-Explore my projects to see how I apply technical skills to real-world questions.
+::: {.feature-card}
+### Career Goal
+Bridging accounting expertise with analytics to contribute to FP&A and business planning.
+:::
+:::

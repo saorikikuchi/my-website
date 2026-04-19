@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: About Me
 ---
-
-## About Me
 
 Hello, I'm Saori Kikuchi.
 
