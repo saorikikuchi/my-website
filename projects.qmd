@@ -2,18 +2,33 @@
 title: "Projects"
 ---
 
-## Customer Churn Prediction
+## Expense Analysis Dashboard
 
-Built a machine learning model to predict customer churn.
+Developed a dashboard to analyze monthly operating costs and identify spending trends.
 
-**Tools:** Python, pandas, scikit-learn
+**Tools:** Excel, Power Query, Power BI
 
-**Result:** Improved prediction performance and identified key churn factors.
+**What I did:**
+- Cleaned and transformed financial data
+- Built dashboards to track cost categories
+- Identified key cost drivers and trends
 
-## Data Analysis Project
+**Result:**
+Improved visibility into operating expenses and supported budgeting decisions.
 
-Analyzed a real-world dataset to extract useful insights.
+---
 
-**Tools:** Excel, Python
+## Budget vs Actual Analysis
 
-**Result:** Created visualizations and summarized key trends clearly.
+Analyzed budget vs actual performance to identify variances and provide insights.
+
+**Tools:** Excel
+
+**What I did:**
+- Compared planned vs actual financial data
+- Investigated major variances
+- Summarized findings for reporting
+
+**Result:**
+Helped improve financial planning accuracy and cost control.
+

@@ -2,7 +2,43 @@
 title: "CV"
 ---
 
-I am currently building my professional portfolio in data analytics and technology. My background includes academic projects, technical coursework, and practical experience in problem solving and communication.
+## Professional Summary
 
-## Download
-[Download my CV (PDF)](CV2026.pdf)
+Accounting and finance professional with over 10 years of experience in financial reporting, budgeting, and business operations.
+
+Experienced in working within international environments, including a French pharmaceutical company and a German manufacturing firm. Strong background in supporting financial decision-making and improving business processes.
+
+Currently expanding my skill set in data analytics to enhance financial planning and analysis (FP&A).
+
+---
+
+## Key Strengths
+
+- Financial reporting and month-end / year-end closing
+- Budgeting, forecasting, and cost analysis
+- Cash flow management and financial control
+- ERP systems: SAP, JD Edwards, D365
+- Cross-functional collaboration with global headquarters
+- Data analysis using Excel, Power Query, and Power BI
+
+---
+
+## Technical Skills
+
+**Finance & Business Tools**
+- SAP, JD Edwards, D365  
+- Excel (Advanced), Power Query, Power BI  
+
+**Data Analytics (Currently Developing)**
+- Python (pandas, basic analysis)  
+- SQL (basic querying)  
+- R (RStudio)  
+- GitHub  
+
+---
+
+## Download CV
+
+For more detailed experience and background, please download my full CV below.
+
+[Download my full CV (PDF)](CV2026.pdf){.btn .btn-primary}

@@ -1,11 +1,40 @@
 ---
-title: "About Me"
+title: "About"
 ---
 
-Hello, I’m Saori Kikuchi.
+## About Me
 
-I am a data science student with a strong interest in machine learning, analytics, and problem solving.
+Hello, I'm Saori Kikuchi.
 
-My goal is to build practical data-driven solutions that help organizations make better decisions. I enjoy working on projects involving data analysis, predictive modeling, and visualization.
+I have over 10 years of experience in accounting and finance within international organizations, including a French pharmaceutical company and a German manufacturing firm. I have worked in both corporate and accounting firm environments, supporting financial decision-making and ensuring compliance with accounting standards.
 
-I am currently developing my portfolio to showcase academic and personal projects relevant to data and technology roles.
+In recent years, I have developed a strong interest in data analytics and how it can enhance financial planning and analysis (FP&A). I enjoy using tools such as Excel, Power Query, and Power BI to analyze data, identify trends, and support more informed business decisions.
+
+## Professional Background
+
+My experience includes:
+
+- Financial reporting and monthly/annual closing
+- Budgeting and cost analysis
+- Cash flow management and forecasting
+- ERP system implementation (SAP,JDEdward,and D365)
+- Collaboration with international headquarters (Finance, Tax, R&D)
+
+## Career Goals
+
+My goal is to transition into a role that combines finance and data analytics, particularly in FP&A or business analysis.
+
+I aim to leverage my accounting background together with data-driven insights to improve financial performance, support strategic planning, and contribute to more efficient business operations.
+
+## Technical Skills
+
+**Finance & Business Tools**
+- SAP, JD Edwards, D365
+- Excel (Advanced), Power Query, Power BI
+- Financial reporting, budgeting, cost analysis
+
+**Data Analytics (Currently Developing)**
+- Python (pandas, data cleaning, basic analysis)
+- SQL (basic querying, data extraction)
+- R (RStudio, basic statistical analysis)
+- GitHub (version control and project management)

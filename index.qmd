@@ -33,5 +33,4 @@ I am a data-focused student passionate about solving real-world problems using d
 
 ## Featured Projects
 
-- Customer Churn Prediction  
-- Data Analysis Project  
+Explore my projects to see how I apply technical skills to real-world questions.
