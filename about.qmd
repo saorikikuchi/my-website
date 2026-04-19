@@ -2,37 +2,32 @@
 title: About Me
 ---
 
-Hello, I'm Saori Kikuchi.
+Hello, I’m Saori Kikuchi.
 
-I have over 10 years of experience in accounting and finance within international organizations, including a French pharmaceutical company and a German manufacturing firm. I have worked in both corporate and accounting firm environments, supporting financial decision-making and ensuring compliance with accounting standards.
+I have over 10 years of experience in accounting and finance, including financial reporting, budgeting, and ERP system implementation in international environments.
 
-In recent years, I have developed a strong interest in data analytics and how it can enhance financial planning and analysis (FP&A). I enjoy using tools such as Excel, Power Query, and Power BI to analyze data, identify trends, and support more informed business decisions.
-
-## Professional Background
-
-My experience includes:
-
-- Financial reporting and monthly/annual closing
-- Budgeting and cost analysis
-- Cash flow management and forecasting
-- ERP system implementation (SAP,JDEdward,and D365)
-- Collaboration with international headquarters (Finance, Tax, R&D)
+In recent years, I have developed a strong interest in data analytics and its application to finance.
 
 ## Career Goals
 
 My goal is to transition into a role that combines finance and data analytics, particularly in FP&A or business analysis.
 
-I aim to leverage my accounting background together with data-driven insights to improve financial performance, support strategic planning, and contribute to more efficient business operations.
+I aim to leverage my accounting background together with data-driven insights to improve financial performance and support strategic decision-making.
 
 ## Technical Skills
 
-**Finance & Business Tools**
-- SAP, JD Edwards, D365
-- Excel (Advanced), Power Query, Power BI
-- Financial reporting, budgeting, cost analysis
+### Finance & Business Tools
+- SAP
+- JD Edwards
+- D365
+- Excel (Advanced)
+- Power Query
+- Power BI
 
-**Data Analytics (Currently Developing)**
+### Data Analytics (Currently Developing)
 - Python (pandas, data cleaning, basic analysis)
-- SQL (basic querying, data extraction)
+- SQL (basic querying)
 - R (RStudio, basic statistical analysis)
-- GitHub (version control and project management)
+- GitHub (version control)
+- VS Code
+

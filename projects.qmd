@@ -2,16 +2,24 @@
 title: "Projects"
 ---
 
+## Projects
+
 <div class="project-card">
   <h2>Expense Analysis Dashboard</h2>
-  <p>Developed a dashboard to analyze monthly operating costs and identify spending trends.</p>
-  <p><strong>Tools:</strong> Excel, Power Query, Power BI</p>
-  <p><strong>Result:</strong> Improved visibility into operating expenses and supported budgeting decisions.</p>
+  <p>Analyzed monthly operating costs to identify key spending trends.</p>
+  <ul>
+    <li><strong>Tools:</strong> Excel, Power Query, Power BI</li>
+    <li><strong>Action:</strong> Built dashboards and automated reporting</li>
+    <li><strong>Result:</strong> Improved visibility of expenses and supported budgeting decisions</li>
+  </ul>
 </div>
 
 <div class="project-card">
   <h2>Budget vs Actual Analysis</h2>
-  <p>Analyzed budget versus actual performance to identify variances and provide financial insights.</p>
-  <p><strong>Tools:</strong> Excel</p>
-  <p><strong>Result:</strong> Supported financial planning and improved variance analysis.</p>
+  <p>Compared planned budgets with actual results to identify variances.</p>
+  <ul>
+    <li><strong>Tools:</strong> Excel</li>
+    <li><strong>Action:</strong> Performed variance analysis and reporting</li>
+    <li><strong>Result:</strong> Supported financial planning and decision-making</li>
+  </ul>
 </div>

@@ -4,7 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Expense Analysis Dashboard\n\n\nDeveloped a dashboard to analyze monthly operating costs and identify spending trends.\n\n\nTools: Excel, Power Query, Power BI\n\n\nResult: Improved visibility into operating expenses and supported budgeting decisions.\n\n\n\n\nBudget vs Actual Analysis\n\n\nAnalyzed budget versus actual performance to identify variances and provide financial insights.\n\n\nTools: Excel\n\n\nResult: Supported financial planning and improved variance analysis."
+    "text": "Analyzed monthly operating costs to identify key spending trends.\n\n\n\nTools: Excel, Power Query, Power BI\n\n\nAction: Built dashboards and automated reporting\n\n\nResult: Improved visibility of expenses and supported budgeting decisions\n\n\n\n\n\n\nCompared planned budgets with actual results to identify variances.\n\n\n\nTools: Excel\n\n\nAction: Performed variance analysis and reporting\n\n\nResult: Supported financial planning and decision-making"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzed monthly operating costs to identify key spending trends.\n\n\n\nTools: Excel, Power Query, Power BI\n\n\nAction: Built dashboards and automated reporting\n\n\nResult: Improved visibility of expenses and supported budgeting decisions\n\n\n\n\n\n\nCompared planned budgets with actual results to identify variances.\n\n\n\nTools: Excel\n\n\nAction: Performed variance analysis and reporting\n\n\nResult: Supported financial planning and decision-making"
   },
   {
     "objectID": "cv.html",
@@ -46,28 +53,21 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello, I’m Saori Kikuchi.\nI have over 10 years of experience in accounting and finance within international organizations, including a French pharmaceutical company and a German manufacturing firm. I have worked in both corporate and accounting firm environments, supporting financial decision-making and ensuring compliance with accounting standards.\nIn recent years, I have developed a strong interest in data analytics and how it can enhance financial planning and analysis (FP&A). I enjoy using tools such as Excel, Power Query, and Power BI to analyze data, identify trends, and support more informed business decisions."
-  },
-  {
-    "objectID": "about.html#professional-background",
-    "href": "about.html#professional-background",
-    "title": "About Me",
-    "section": "Professional Background",
-    "text": "Professional Background\nMy experience includes:\n\nFinancial reporting and monthly/annual closing\nBudgeting and cost analysis\nCash flow management and forecasting\nERP system implementation (SAP,JDEdward,and D365)\nCollaboration with international headquarters (Finance, Tax, R&D)"
+    "text": "Hello, I’m Saori Kikuchi.\nI have over 10 years of experience in accounting and finance, including financial reporting, budgeting, and ERP system implementation in international environments.\nIn recent years, I have developed a strong interest in data analytics and its application to finance."
   },
   {
     "objectID": "about.html#career-goals",
     "href": "about.html#career-goals",
     "title": "About Me",
     "section": "Career Goals",
-    "text": "Career Goals\nMy goal is to transition into a role that combines finance and data analytics, particularly in FP&A or business analysis.\nI aim to leverage my accounting background together with data-driven insights to improve financial performance, support strategic planning, and contribute to more efficient business operations."
+    "text": "Career Goals\nMy goal is to transition into a role that combines finance and data analytics, particularly in FP&A or business analysis.\nI aim to leverage my accounting background together with data-driven insights to improve financial performance and support strategic decision-making."
   },
   {
     "objectID": "about.html#technical-skills",
     "href": "about.html#technical-skills",
     "title": "About Me",
     "section": "Technical Skills",
-    "text": "Technical Skills\nFinance & Business Tools - SAP, JD Edwards, D365 - Excel (Advanced), Power Query, Power BI - Financial reporting, budgeting, cost analysis\nData Analytics (Currently Developing) - Python (pandas, data cleaning, basic analysis) - SQL (basic querying, data extraction) - R (RStudio, basic statistical analysis) - GitHub (version control and project management)"
+    "text": "Technical Skills\n\nFinance & Business Tools\n\nSAP\nJD Edwards\nD365\nExcel (Advanced)\nPower Query\nPower BI\n\n\n\nData Analytics (Currently Developing)\n\nPython (pandas, data cleaning, basic analysis)\nSQL (basic querying)\nR (RStudio, basic statistical analysis)\nGitHub (version control)\nVS Code"
   },
   {
     "objectID": "contact.html",
