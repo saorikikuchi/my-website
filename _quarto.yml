@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CV2026.pdf
 
 website:
   title: "My Portfolio"
@@ -20,4 +22,5 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.css
     

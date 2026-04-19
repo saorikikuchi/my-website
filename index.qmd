@@ -25,9 +25,9 @@ I am a data-focused student passionate about solving real-world problems using d
 
 ## What I Do
 
-- 📊 Data Analysis & Visualization  
-- 🤖 Machine Learning  
-- 📈 Problem Solving with Data  
+-  Data Analysis & Visualization  
+-  Machine Learning  
+-  Problem Solving with Data  
 
 ---
 
